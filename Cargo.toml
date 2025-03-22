@@ -2,5 +2,6 @@
 name = "simple-protection-system"
 version = "0.1.0"
 edition = "2024"
+authors = ["hyrilx.huang"]
 
 [dependencies]
